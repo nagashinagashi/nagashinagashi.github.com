@@ -10,8 +10,8 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'fukuroi_h23_kessan3';
-OpenSpending.year = '2012';
+OpenSpending.identifier = 'fukuroi_kessan';
+OpenSpending.year = '2011';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
 
