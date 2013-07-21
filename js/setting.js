@@ -47,7 +47,4 @@ OpenSpending.Styles.Cofog = {
   '10-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
   '11': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#4E6D00' },
   '12': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#4E6D00' },
-
 };
-
-
