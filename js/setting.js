@@ -18,7 +18,7 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* fukuroi cofog */
-  '1': { icon: 'communication', color: '#C75746', bcolor: '#935B3B' },
+  '1': { icon: 'communication.csv', color: '#C75746', bcolor: '#935B3B' },
   '2': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#0AB971' },
   '3': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#4E6D00' },
   '4': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#D33673' },
