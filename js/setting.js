@@ -10,7 +10,7 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'fukuroi_h23_kessan';
+OpenSpending.identifier = 'fukuroi_h23_kessan2';
 OpenSpending.year = '2012';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
@@ -26,7 +26,6 @@ OpenSpending.Styles.Cofog = {
   '6': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#EC2406' },
   '8': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#C75746' },
   '9': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#D33673' },
-  '9-1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#D33673' },
   '10': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#790586' },
   '10-1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#790586' }
   '11': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#4E6D00' },
